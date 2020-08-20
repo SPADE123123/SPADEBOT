@@ -5,7 +5,7 @@ import discord
 
  
 
-token = "NzQ1ODIxMDM0ODMzNTEwNDQw.Xz3V9w.If5drZurNZ40aMxKl5PsoQrLOno" #<- 봇 토큰 입력하는곳 
+token = "NzQ1ODIxMDM0ODMzNTEwNDQw.Xz3V9w.PbjkczrUJLIoyxdJSNLJnUQnTlI" #<- 봇 토큰 입력하는곳 
 client = discord.Client()
 
 @client.event
